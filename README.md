@@ -6,7 +6,7 @@
 - 📫 How to reach me: linkedin.com/in/ilan-veras-247405216/
 <div align="center">
   <a href="https://github.com/IlanVeras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlanVeras&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlanVeras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlanVeras&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
