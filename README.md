@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @IlanVeras
+## 👋  Hello I'm Ilan Gustav Veras
+
 - 👀 I’m interested in working with web developent and Python
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python 
-- 💞️ I’m looking to my first job in IT
+- 👨🏻‍🎓 I’m currently learning HTML, CSS, JavaScript and Python 
+- 💻 I’m looking to my first job in IT
 - 📫 How to reach me: linkedin.com/in/ilan-veras-247405216/
 
 <!---
