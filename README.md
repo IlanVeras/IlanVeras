@@ -1,7 +1,7 @@
 ## 👋  Hello I'm Ilan Gustav Veras
 
 - 👀 I’m interested in working with web developent
-- 👨🏻‍🎓 I’m currently learning HTML, CSS, JavaScript and Python 
+- 👨🏻‍🎓 I’m currently in a bc of computer science 
 - 💻 I’m looking to my first job in IT
 - 📫 How to reach me: linkedin.com/in/ilan-veras-247405216/
 <div align="center">
