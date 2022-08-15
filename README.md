@@ -1,4 +1,4 @@
-## 👋  Hello I'm Ilan Gustav Veras
+## 👋  Hello I'm Ilan Veras
 
 - 👀 I’m interested in working with web developent
 - 👨🏻‍🎓 I’m currently in a bc of computer science 
