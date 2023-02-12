@@ -1,4 +1,4 @@
-<div text-align: center>
+<div align-items: center>
   ## 👋  Hello I'm Ilan Veras
 
   - 👀 I’m interested in working with web developent
