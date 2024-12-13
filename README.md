@@ -1,9 +1,8 @@
 <div align-items: center>
   ## 👋  Hello I'm Ilan Veras
 
-  - 👀 I’m interested in working with web developent
-  - 👨🏻‍🎓 I’m currently in a bc of computer science 
-  - 💻 I’m looking for my first job in IT
+  - 👀 Working with web developent
+  - 👨🏻‍🎓 Bc in computer science 
   - 📫 How to reach me: linkedin.com/in/ilan-veras-247405216/
   <div>
     <a href="https://github.com/IlanVeras">
