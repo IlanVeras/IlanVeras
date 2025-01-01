@@ -1,7 +1,7 @@
 <div align-items: center>
   ## 👋  Hello I'm Ilan Veras
 
-  - 👀 Working with web developent
+  - 👀 Working with web development
   - 👨🏻‍🎓 Bc in computer science 
   - 📫 How to reach me: linkedin.com/in/ilan-veras-247405216/
   <div>
