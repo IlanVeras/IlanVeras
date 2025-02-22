@@ -22,5 +22,5 @@
   </div>
 </div>
 <!---
-console.log('Hello employers, i'm here looking for you, now i'm just a begginer but soon i hope to become a colaborator at yor business')
+console.log('Hello employers, i'm here looking for you, soon i hope to become a colaborator at yor business')
 --->
